@@ -1,7 +1,44 @@
-<h1 align="center">Hi 👋, I'm YAHYA UNLU</h1>
+<h1 align="center">👋, I'm YAHYA UNLU</h1>
+<h2 align="center">Near East University, Faculty of Engineering, Computer Engineer Degree</h2>
 <h3 align="center">Database Engineer, Team-Leader, Backend and Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yhunlu&label=Profile%20views&color=0e75b6&style=flat" alt="yhunlu" /> </p>
+
+<h3 align="left">My Work Experiences:</h3>
+<h4 align="left"> 
+<img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
+KOCAELI/TURKEY for 2 years as a Lead & IT Support in the TUPRAS-RUP project.
+</h4>
+
+<h4 align="left"> 
+<img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184713781-8d07c405-01aa-478c-9c0e-4ba091f4d518.gif"/>&nbsp;
+MADRID/SPAIN for 2 months as a Database Engineer in order to prepare systems for project in Arabia.
+</h4>
+
+<h4 align="left"> 
+<img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184715779-acc2ec1e-c5e1-4f44-8a26-eaa597b1d039.gif"/>&nbsp;
+JAZAN/SUUDI ARABIA for 3 years as a Team Leader in ARAMCO project.
+</h4>
+
+<h4 align="left"> 
+<img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
+KOCAELI/TURKEY for 5 months as a Software Engineer in OZKA Tyre manufactoring company.
+</h4>
+
+<h4 align="left"> 
+<img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184717763-2ec859f7-9e23-41cc-9a8c-c653d9d4b648.gif"/>&nbsp;
+BAKU/AZERBAIJAN for 2 years as a Team Leader in SOCAR project.
+</h4>
+
+
+<h4 align="center"> 
+  <p>
+    <img align="center" height="100" width="300" src="https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/09/1808-SAGE-remote-06.gif"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Working remotely as a Backend/Full-Stack since 2021
+  </p>
+</h4>
+
+---
 
 - 🌱 I’m currently learning **Microservices**
 
