@@ -24,7 +24,7 @@ JAZAN/SUUDI ARABIA for 3 years as a Team Leader in ARAMCO project.
 
 <h4 align="left"> 
 <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-KOCAELI/TURKEY for 5 months as a Software Engineer in OZKA Tire Manufacturing Company.
+KOCAELI/TURKEY for 7 months as a Software Engineer in OZKA Tire Manufacturing Company.
 </h4>
 
 <h4 align="left"> 
