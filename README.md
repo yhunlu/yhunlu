@@ -44,7 +44,7 @@ BAKU/AZERBAIJAN for 2 years as a Team Leader in SOCAR project, Company is "Tecni
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **React, Node, Typescript, MongoDB, MSSQL.**
+- 💬 Ask me about **MERN - JAM stack, C#, Python, VBA, MSSQL.**
 
 - 📫 How to reach me **yhunlu87@gmail.com**
 
