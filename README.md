@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yhunlu&label=Profile%20views&color=0e75b6&style=flat" alt="yhunlu" /> </p>
-
 <h1 align="center">👋, I'm YAHYA UNLU</h1>
 <h2 align="center">Near East University, Faculty of Engineering, Computer Engineer Degree</h2>
 <h3 align="center">Software, Database, Backend and Full-Stack Engineer and Team-Leader</h3>
