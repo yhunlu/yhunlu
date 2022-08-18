@@ -33,8 +33,9 @@ BAKU/AZERBAIJAN for 2 years as a Team Leader in SOCAR project, Company is "Tecni
 
 <h4 align="center"> 
   <p>
-    <img align="right" height="100" width="300" src="https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/09/1808-SAGE-remote-06.gif"/>&nbsp;&nbsp;Working remotely as a Backend/Full-Stack since 2021
+    <img align="left" height="100" width="300" src="https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/09/1808-SAGE-remote-06.gif"/>&nbsp;&nbsp;
   </p>
+  <p>Working remotely as a Backend/Full-Stack since 2021</p>
 </h4>
 
 ---
