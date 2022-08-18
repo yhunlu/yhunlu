@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm YAHYA UNLU</h1>
 <h2 align="center">Near East University, Faculty of Engineering, Computer Engineer Degree</h2>
-<h3 align="center">Software, Database, Backend and Full-Stack Engineer and Team-Leader</h3>
+<h3 align="center">Software, Database, Backend, Full-Stack Engineer and Team-Leader</h3>
 
 
 
