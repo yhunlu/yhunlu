@@ -7,7 +7,7 @@
 <h3 align="left">My Work Experiences:</h3>
 <h4 align="left"> 
 <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-KOCAELI/TURKEY for 2 years as a Lead & IT Support in the TUPRAS-RUP project, Company is "Tecnicas Reunidas".
+KOCAELI/TURKEY for 18 months as a Lead & IT Support in the TUPRAS-RUP project, Company is "Tecnicas Reunidas".
 </h4>
 
 <h4 align="left"> 
@@ -17,7 +17,7 @@ MADRID/SPAIN for 2 months as a Database Engineer in order to prepare systems for
 
 <h4 align="left"> 
 <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184715779-acc2ec1e-c5e1-4f44-8a26-eaa597b1d039.gif"/>&nbsp;
-JAZAN/SUUDI ARABIA for 3 years as a Team Leader in ARAMCO project, Company is "Tecnicas Reunidas".
+JAZAN/SUUDI ARABIA for 33 months as a Team Leader in ARAMCO project, Company is "Tecnicas Reunidas".
 </h4>
 
 <h4 align="left"> 
@@ -27,7 +27,7 @@ KOCAELI/TURKEY for 7 months as a Software Engineer in OZKA Tire Manufacturing Co
 
 <h4 align="left"> 
 <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184717763-2ec859f7-9e23-41cc-9a8c-c653d9d4b648.gif"/>&nbsp;
-BAKU/AZERBAIJAN for 2 years as a Team Leader in SOCAR project, Company is "Tecnicas Reunidas".
+BAKU/AZERBAIJAN for 2 years as a Senior Software Engineer in SOCAR project, Company is "Tecnicas Reunidas".
 </h4>
 
 
