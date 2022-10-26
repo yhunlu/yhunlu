@@ -40,10 +40,6 @@ BAKU/AZERBAIJAN for 2 years as a Senior Software Engineer in SOCAR project, Comp
 
 ---
 
-- 🌱 I’m currently learning **Microservices**
-
-- 💬 Ask me about **MERN - JAM stack, C#, Python, VBA, MSSQL.**
-
 - 📫 How to reach me **yhunlu87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
