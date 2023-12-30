@@ -55,6 +55,4 @@ BAKU/AZERBAIJAN for 2 years as a Senior Software Engineer in SOCAR project, Comp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhunlu&show_icons=true&theme=dark&locale=en&layout=compact" alt="yhunlu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhunlu&show_icons=true&theme=dark&locale=en" alt="yhunlu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yhunlu&theme=dark" alt="yhunlu" /></p>
