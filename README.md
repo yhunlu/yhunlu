@@ -13,7 +13,7 @@
   
   <li align="left"> 
   <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184713781-8d07c405-01aa-478c-9c0e-4ba091f4d518.gif"/>&nbsp;
-  <strong>Database Engineer</strong> at <strong>Tecnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Madrid, Spain</strong> (2 months)
+  <strong>Data & Database Engineer</strong> at <strong>Tecnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Madrid, Spain</strong> (2 months)
   </li>
   
   <li align="left"> 
@@ -36,7 +36,7 @@
   <p>
     <img align="left" height="100" width="300" src="https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/09/1808-SAGE-remote-06.gif"/>&nbsp;&nbsp;
   </p>
-  <p>Working remotely as a Backend/Full-Stack since 2021</p>
+  <p>Working remotely as a Backend/(Data & Database) Engineer since 2021</p>
 </h4>
 
 ---
