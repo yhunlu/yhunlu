@@ -5,7 +5,7 @@
 
 
 <h3 align="left">My Work Experiences:</h3>
-<div>
+<div align="left">
   <ul>
   <li> 
     <img align="left" height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
