@@ -32,8 +32,8 @@
     <strong>Senior Software Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>SOCAR project</strong> in <strong>Baku, Azerbaijan</strong> (24 months)
   </li>
   <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184717763-2ec859f7-9e23-41cc-9a8c-c653d9d4b648.gif"/>&nbsp;
-    <p>Work remotely as a Backend/(Data & Database) Engineer</p>(36 months)
+    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;    
+    <strong>Work remotely as a Backend/(Data & Database) Engineer</strong>(36 months)
   </li>   
   <li> 
     <img height="20" width="30" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIF0HkjtHc7jCh32xxfHhQgEMgboiUtaBfHZvDPEQFnznQgwRp_bbqwCju92oFF4xt-k6Qy1YPdH2U-_cWCGwNEc9NExT8IBaKC9KQrsls3Mbkpaeb-pWO66EH8MkHuYyUqnAq-rbZek0/s0-rw/Flag_of_Qatar.gif"/>&nbsp;
