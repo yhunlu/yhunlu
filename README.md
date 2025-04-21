@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm YAHYA UNLU</h1>
 <h2 align="center">Near East University, Faculty of Engineering, Computer Engineer Degree</h2>
-<h3 align="center">Software, Database, Backend, Full-Stack Engineer and Team-Leader</h3>
+<h3 align="center">Management, Team-Leader, Software, Data, Database, ML</h3>
 
 
 
@@ -9,35 +9,35 @@
   <ul>
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-    <strong>Lead & IT Support</strong> at <strong>Técnicas Reunidas</strong> for the <strong>TUPRAS-RUP project</strong> in <strong>Kocaeli, Turkey</strong> (starts 2013 - 18 months)
+    <strong>Data Engineer/Team Lead</strong> at <strong>Técnicas Reunidas</strong> for the <strong>TUPRAS-RUP project</strong> in <strong>Kocaeli, Turkey</strong> (05/2013 - 12/2014)
   </li>
   
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184713781-8d07c405-01aa-478c-9c0e-4ba091f4d518.gif"/>&nbsp;
-    <strong>Data & Database Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Madrid, Spain</strong> (end of 2014 - 2 months)
+    <strong>Data Solutions Architect</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Madrid, Spain</strong> (12/2014 - 01/2015)
   </li>
   
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184715779-acc2ec1e-c5e1-4f44-8a26-eaa597b1d039.gif"/>&nbsp;
-    <strong>Team Leader</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Jazan, Saudi Arabia</strong> (starts 2015 - 33 months)
+    <strong>Lead Data Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Jazan, Saudi Arabia</strong> (02/2015 - 11/2017)
   </li>
   
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-    <strong>Software Engineer</strong> at <strong>OZKA Tire Manufacturing Company</strong> in <strong>Kocaeli, Turkey</strong> (starts 2018 - 7 months)
+    <strong>Software Engineer/Digital Transformation Lead</strong> at <strong>OZKA Tire Manufacturing Company</strong> in <strong>Kocaeli, Turkey</strong> (05/2018 - 11/2018)
   </li>
   
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184717763-2ec859f7-9e23-41cc-9a8c-c653d9d4b648.gif"/>&nbsp;
-    <strong>Senior Software Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>SOCAR project</strong> in <strong>Baku, Azerbaijan</strong> (end of 2018 - 24 months)
+    <strong>Expert Data Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>SOCAR project</strong> in <strong>Baku, Azerbaijan</strong> (12/2018 - 12/2023)
   </li>
   <li> 
     <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;    
-    <strong>Work remotely as a Backend/(Data & Database) Engineer</strong>(starts 2021 - 36 months)
+    <strong>Expert Software Engineer</strong> at <strong>Tailor Made Excel</strong> for the <strong>Custom Tracking System project</strong> in <strong>Remote-London, UK</strong> (02/2024 - 04/2024)
   </li>   
   <li> 
     <img height="20" width="30" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIF0HkjtHc7jCh32xxfHhQgEMgboiUtaBfHZvDPEQFnznQgwRp_bbqwCju92oFF4xt-k6Qy1YPdH2U-_cWCGwNEc9NExT8IBaKC9KQrsls3Mbkpaeb-pWO66EH8MkHuYyUqnAq-rbZek0/s0-rw/Flag_of_Qatar.gif"/>&nbsp;
-    <strong>Data Management Lead</strong> at <strong>Técnicas Reunidas</strong> for the <strong>QatarGas project</strong> in <strong>Doha, Qatar</strong> (since 2024 - October)
+    <strong>Senior Data Management Lead</strong> at <strong>Técnicas Reunidas</strong> for the <strong>QatarGas project</strong> in <strong>Doha, Qatar</strong> (10/2024 - )
   </li>  
   </ul>
 </div>
