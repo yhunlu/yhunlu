@@ -1,56 +1,121 @@
-<h1 align="center">👋, I'm YAHYA UNLU</h1>
-<h2 align="center">Near East University, Faculty of Engineering, Computer Engineer Degree</h2>
-<h3 align="center">Management, Team-Leader, Software, Data, Database, ML</h3>
+<h1 align="center">👋 Hi, I'm YAHYA UNLU 🌟🖥️🚀</h1>
+<h2 align="center">💼 Data & Software 🛠️ | Management & Leadership 👔 | Digital Transformation 🌐</h2>
 
+<hr/>
 
+<h3>🎓 Education 📚🎓✨</h3>
+<ul>
+  <li>🎓 <strong>Computer Engineering Degree</strong>, Faculty of Engineering, <strong>Near East University</strong> 📖</li>
+</ul>
 
-<h3 align="left">My Work Experiences:</h3>
-<div align="left">
-  <ul>
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-    <strong>Data Engineer/Team Lead</strong> at <strong>Técnicas Reunidas</strong> for the <strong>TUPRAS-RUP project</strong> in <strong>Kocaeli, Turkey</strong> (05/2013 - 12/2014)
-  </li>
-  
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184713781-8d07c405-01aa-478c-9c0e-4ba091f4d518.gif"/>&nbsp;
-    <strong>Data Solutions Architect</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Madrid, Spain</strong> (12/2014 - 01/2015)
-  </li>
-  
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184715779-acc2ec1e-c5e1-4f44-8a26-eaa597b1d039.gif"/>&nbsp;
-    <strong>Lead Data Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>ARAMCO project</strong> in <strong>Jazan, Saudi Arabia</strong> (02/2015 - 11/2017)
-  </li>
-  
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;
-    <strong>Software Engineer/Digital Transformation Lead</strong> at <strong>OZKA Tire Manufacturing Company</strong> in <strong>Kocaeli, Turkey</strong> (05/2018 - 11/2018)
-  </li>
-  
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184717763-2ec859f7-9e23-41cc-9a8c-c653d9d4b648.gif"/>&nbsp;
-    <strong>Expert Data Engineer</strong> at <strong>Técnicas Reunidas</strong> for the <strong>SOCAR project</strong> in <strong>Baku, Azerbaijan</strong> (12/2018 - 12/2023)
-  </li>
-  <li> 
-    <img height="20" width="30" src="https://user-images.githubusercontent.com/22700324/184711457-6bb4fd6c-1ee2-4993-9b20-de6ab4a0d113.gif"/>&nbsp;    
-    <strong>Expert Software Engineer</strong> at <strong>Tailor Made Excel</strong> for the <strong>Custom Tracking System project</strong> in <strong>Remote-London, UK</strong> (02/2024 - 04/2024)
-  </li>   
-  <li> 
-    <img height="20" width="30" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIF0HkjtHc7jCh32xxfHhQgEMgboiUtaBfHZvDPEQFnznQgwRp_bbqwCju92oFF4xt-k6Qy1YPdH2U-_cWCGwNEc9NExT8IBaKC9KQrsls3Mbkpaeb-pWO66EH8MkHuYyUqnAq-rbZek0/s0-rw/Flag_of_Qatar.gif"/>&nbsp;
-    <strong>Senior Data Management Lead</strong> at <strong>Técnicas Reunidas</strong> for the <strong>QatarGas project</strong> in <strong>Doha, Qatar</strong> (10/2024 - )
-  </li>  
-  </ul>
-</div>
+<hr/>
 
----
+<h3>🚀 Work Experience 💼🌍✨</h3>
 
+<ul>
+  <li>🇶🇦 <strong>Senior Data Management Lead</strong><br>
+  <em>Técnicas Reunidas — QatarGas Project, Doha, Qatar | Oct 2024 – Present</em><br>
+  Spearheading data governance, engineering workflows, and automated ETL pipelines for cross-discipline EPC reporting.</li><br>
+
+  <li>🇬🇧 <strong>Expert Software Engineer</strong><br>
+  <em>Tailor Made Excel — Custom Tracking System, Remote (London) | Feb 2024 – Apr 2024</em><br>
+  Built a Django–React-based modular dashboard with real-time data synchronization and secure user access management to streamline operations for remote teams.</li><br>
+
+  <li>🇦🇿 <strong>Expert Data Engineer</strong><br>
+  <em>Técnicas Reunidas — SOCAR Project, Baku, Azerbaijan | Dec 2018 – Dec 2023</em><br>
+  Developed and optimized end-to-end data workflows for progress reporting and engineering integration.</li><br>
+
+  <li>🇹🇷 <strong>Software Engineer / Digital Transformation Lead</strong><br>
+  <em>OZKA Tire Manufacturing Company — Kocaeli, Turkey | May 2018 – Nov 2018</em><br>
+  Digitized shop-floor processes and built reporting tools for real-time production tracking.</li><br>
+
+  <li>🇸🇦 <strong>Lead Data Engineer</strong><br>
+  <em>Técnicas Reunidas — ARAMCO Project, Jazan, Saudi Arabia | Feb 2015 – Nov 2017</em><br>
+  Led a team managing high-volume data pipelines for one of the largest refineries in the Middle East.</li><br>
+
+  <li>🇪🇸 <strong>Data Solutions Architect</strong><br>
+  <em>Técnicas Reunidas — ARAMCO Project, Madrid, Spain | Dec 2014 – Jan 2015</em><br>
+  Architected the initial design of enterprise data solutions used in downstream construction analytics.</li><br>
+
+  <li>🇹🇷 <strong>Data Engineer / Team Lead</strong><br>
+  <em>Técnicas Reunidas — TUPRAS-RUP Project, Kocaeli, Turkey | May 2013 – Dec 2014</em><br>
+  Managed reporting and control systems and led a team supporting field progress and subcontractor data accuracy.</li>
+</ul>
+
+<hr/>
+
+<h3>🛠️ Tech & Tools 🧰🖥️⚙️</h3>
+
+<h4>🌐 Languages 📌</h4>
+<table>
+  <tr>
+    <td>🐍 Python</td>
+    <td>🗃️ SQL</td>
+    <td>🔷 C#</td>
+    <td>🔹 TypeScript</td>
+    <td>🟨 JavaScript</td>
+  </tr>
+</table>
+
+<h4>🚀 Frameworks & Libraries 📦</h4>
+<table>
+  <tr>
+    <td>⚛️ React</td>
+    <td>🌿 Django</td>
+    <td>🌳 Node.js</td>
+    <td>🌐 .NET</td>
+    <td>🎨 Tailwind CSS</td>
+  </tr>
+</table>
+
+<h4>📚 Databases & Data Engineering 🗄️</h4>
+<table>
+  <tr>
+    <td>🔴 MS SQL Server</td>
+    <td>🍃 MongoDB</td>
+    <td>🐬 MySQL</td>
+    <td>🐘 PostgreSQL</td>
+    <td>📊 Pandas</td>
+  </tr>
+</table>
+
+<h4>⚙️ DevOps, ETL & Workflow Automation 🔄</h4>
+<table>
+  <tr>
+    <td>🐳 Docker</td>
+    <td>🌳 Git & GitHub</td>
+    <td>☁️ Azure DevOps</td>
+    <td>🧭 Prefect</td>
+    <td>💨 Apache Airflow</td>
+  </tr>
+</table>
+
+<h4>☁️ Cloud & Hosting Platforms 🚀</h4>
+<table>
+  <tr>
+    <td>☁️ Azure</td>
+    <td>☁️ Google Cloud</td>
+    <td>🌍 Netlify</td>
+    <td>🌐 Hostinger</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h3>📈 GitHub Stats 📊🚀✨</h3>
+<p>
+  <a href="https://github.com/yhunlu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhunlu&exclude_repo=portfolio,notebook-tests&langs_count=20&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="Top Languages"/>
+  </a>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhunlu&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<hr/>
 
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhunlu&show_icons=true&theme=dark&locale=en&layout=compact" alt="yhunlu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yhunlu&theme=dark" alt="yhunlu" /></p>
+<h3>📬 Get in Touch 💬🌐📱</h3>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/yahyaunlu/" target="_blank">LinkedIn</a></li>
+  <li>📧 <a href="mailto:yhunlu87@gmail.com">Email me</a></li>
+</ul>
